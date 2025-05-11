@@ -23,12 +23,14 @@ return 1 - cost = return 2 - cost
 ```
 
 # using it
-you need to type odds and if odds are american, type american. if not american type anything at all. this probably sounds confusing so here's a picture:
+firstly, when you run the code you'll need to send /start or /help to the bot to start it.
+
+for bets, you need to type odds and if odds are american, type american. if not american type anything at all. if you're typing in fractions you need to use / instead of \ or it won't work. this all probably sounds confusing so here's a picture:
 
 ![image not loading](https://github.com/3xpl0it-0/arbsizes/blob/main/IMG_2905.jpg)
 
 don't worry about spaces because the code line `words = [word.strip() for word in message.text.split(',')]` strips the entry message to words based on comma placement.
-the gain states equity growth in decimal form inclusive of current equity. in simpler terms, multiply it by all the money your going to use on this trade to see how much you'll be left with after (dependant on if the bookies play fair).
+the gain states equity growth in decimal form inclusive of current equity. in simpler terms, multiply it by all the money your going to use on this trade to see how much you'll be left with after (dependant on if the bookies play fair). if you type something in incorrectly and don't get a response wait a few seconds and try againn.
 
 also, if the gain is less than 1 it means you'll lose money.
 
