@@ -1,5 +1,5 @@
 # requirements
-first of all you'll need to create a telegram bot and get a key. reach out @BotFather on telegram, the process is a walk-through so you should manage okay. put the key you get into a .env file in the working directory (the folder you're going to download/clone this code to). when the key is pasted into the file, write token=key exactly that way with no spaces and no apostrophes.
+first of all you'll need to create a telegram bot and get a key. reach out to @BotFather on telegram, the process is a walk-through so you should manage okay. put the key you get into a .env file in the working directory (the folder you're going to download/clone this code to). when the key is pasted into the file, write token=key exactly that way with no spaces and no apostrophes.
 
 # intro
  **not financial advice**  
