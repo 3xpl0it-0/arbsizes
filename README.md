@@ -23,7 +23,7 @@ return 1 - cost = return 2 - cost
 # using it
 you need to type odds and if odds are american, type american. if not american type anything at all. this probably sounds confusing so here's a picture:
 
-![image not loading]([https://github.com/your-username/your-repo-name/raw/main/path/to/image.png](https://github.com/3xpl0it-0/arbsizes/blob/main/IMG_2905.jpg))
+![image not loading](https://github.com/3xpl0it-0/arbsizes/blob/main/IMG_2905.jpg)
 
 don't worry about spaces because the code line `words = [word.strip() for word in message.text.split(',')]` strips the entry message to words based on comma placement.
 the gain states equity growth in decimal form inclusive of current equity. in simpler terms, multiply it by all the money your going to use on this trade to see how much you'll be left with after (dependant on if the bookies play fair).
